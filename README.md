@@ -60,6 +60,6 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garayevk/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:kenangarayev@gmail.com)
 
-💼 https://troopl.com/kgarayev
+💼 [Check out my personal portfolio website](https://troopl.com/kgarayev)
 
 
