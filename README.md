@@ -30,7 +30,7 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
 
-### Technologies
+### Technologies, Frameworks, Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
