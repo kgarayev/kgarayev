@@ -26,7 +26,6 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![REST](https://img.shields.io/badge/-REST-FF6600?logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-5A9?logo=websocket&logoColor=white)
@@ -35,7 +34,6 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?logo=socket.io&logoColor=white)
 ![OAuth](https://img.shields.io/badge/-OAuth-3E8A69?logo=oauth&logoColor=white)
 ![Auth0](https://img.shields.io/badge/-Auth0-EB5424?logo=auth0&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?logo=material-ui&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
@@ -80,6 +78,8 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 
 ### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
