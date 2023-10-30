@@ -27,7 +27,6 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![GraphCMS](https://img.shields.io/badge/-GraphCMS-00D171?logo=graphcms&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-2C78B7?logo=sequelize&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-4A4A4A?logo=sqlalchemy&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-4FC08D?logo=vite&logoColor=white)
