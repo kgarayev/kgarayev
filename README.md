@@ -16,20 +16,6 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-4479A1?logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-2C78B7?logo=sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-4A4A4A?logo=sqlalchemy&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-00599C?logo=apache-cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![GraphCMS](https://img.shields.io/badge/-GraphCMS-00D171?logo=graphcms&logoColor=white)
-![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
-
 ### Technologies, Frameworks, Libraries
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
@@ -55,6 +41,20 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?logo=sass&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-4479A1?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-2C78B7?logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-4A4A4A?logo=sqlalchemy&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-00599C?logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![GraphCMS](https://img.shields.io/badge/-GraphCMS-00D171?logo=graphcms&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?logo=apache-cassandra&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
 
 ### Testing
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
