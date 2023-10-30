@@ -15,6 +15,16 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
 ### Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-4479A1?logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-00599C?logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![GraphCMS](https://img.shields.io/badge/-GraphCMS-00D171?logo=graphcms&logoColor=white)
+![Sequelize](https://img.shields.io/badge/-Sequelize-2C78B7?logo=sequelize&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-4A4A4A?logo=sqlalchemy&logoColor=white)
 
 
 ### Technologies
@@ -41,14 +51,7 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-00599C?logo=apache-cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![GraphCMS](https://img.shields.io/badge/-GraphCMS-00D171?logo=graphcms&logoColor=white)
-![Sequelize](https://img.shields.io/badge/-Sequelize-2C78B7?logo=sequelize&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-4A4A4A?logo=sqlalchemy&logoColor=white)
+
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-4FC08D?logo=vite&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?logo=cypress&logoColor=white)
