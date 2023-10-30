@@ -16,7 +16,7 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
 
-### Technologies, Frameworks, Libraries
+### Technologies, Frameworks, Libraries, Protocols
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=white)
