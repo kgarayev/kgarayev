@@ -19,12 +19,13 @@ As a chartered engineer 🏗️ and UCL graduate 🎓, I bring a unique perspect
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-4479A1?logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-00599C?logo=apache-cassandra&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![GraphCMS](https://img.shields.io/badge/-GraphCMS-00D171?logo=graphcms&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-2C78B7?logo=sequelize&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-4A4A4A?logo=sqlalchemy&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-00599C?logo=apache-cassandra&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![GraphCMS](https://img.shields.io/badge/-GraphCMS-00D171?logo=graphcms&logoColor=white)
+
 
 
 ### Technologies
