@@ -2,7 +2,7 @@
 
 I'm a Software Engineer with a wealth of expertise in solving real-world challenges. I mainly use Node.js, React, Python, C, SQL and NoSQL for backend and frontend engineering. 
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
