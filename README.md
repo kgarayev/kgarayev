@@ -94,6 +94,5 @@ I'm a Software Engineer with a wealth of expertise in solving real-world challen
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/garayevk/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:kenangarayev@gmail.com)
 
-💼 [Check out my personal portfolio website](https://troopl.com/kgarayev)
 
 
