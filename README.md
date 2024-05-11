@@ -1,6 +1,6 @@
 # Hi, I'm Kenan Garayev
 
-I'm a Software Engineer with a wealth of expertise in solving real-world challenges. I mainly use Node.js, React, Python, C, SQL and NoSQL for backend and frontend engineering. 
+I'm a Software Engineer with a wealth of expertise in solving real-world challenges. I mainly use React, Node.js, Python, Go, C, SQL and NoSQL for frontend and backend deveopment. 
 
 ## My Tech Stack
 
