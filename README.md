@@ -1,7 +1,7 @@
 # Hi, I'm Kenan Garayev
 
 I'm a Software Engineer with a wealth of expertise in solving real-world challenges. I mainly use React, Node.js, Python, Go, C, SQL and NoSQL for frontend and backend deveopment. 
-This is my Personal Github profile. For professional purposes, I use Gitlab.
+This is my **Personal** Github profile. For **Professional** purposes, I use Gitlab.
 
 ## My Tech Stack
 
