@@ -1,6 +1,6 @@
-# Hi, I'm Kenan Garayev - this is my Personal Github profile. 
+# Hi, I'm Kenan Garayev - this is my Personal Github profile
 
-This is my **Personal** Github profile. For **Professional** purposes, I use Gitlab.
+For **Professional** development (my day job), I use Gitlab.
 
 I'm a Software Engineer with a wealth of expertise in solving real-world challenges. I mainly use React, Node.js, Python, Go, C, SQL and NoSQL for frontend and backend deveopment. 
 
