@@ -1,4 +1,4 @@
-# Hi, I'm Kenan Garayev
+# Hi, I'm Kenan Garayev. This is my Personal Github profile. 
 
 This is my **Personal** Github profile. For **Professional** purposes, I use Gitlab.
 
